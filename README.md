@@ -50,7 +50,7 @@
 
 2. **Install Dependencies**
    ```bash
-   pip requirements.txt
+   pip install -r /path/to/requirements.txt
    ```
 
 3. **Setup Environment Variables**
