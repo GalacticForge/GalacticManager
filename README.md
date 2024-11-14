@@ -50,7 +50,7 @@
 
 2. **Install Dependencies**
    ```bash
-   pip install -r /path/to/requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. **Setup Environment Variables**
@@ -67,17 +67,16 @@
 GalacticManager uses environment variables to manage sensitive information. To configure, edit the `.env` file with your specific details:
 ```plaintext
 DISCORD_TOKEN=your_discord_token
-PREFIX=!
 ```
 
 ---
 
 ## Usage
-Once GalacticManager is running, invite the bot to your server and use the prefix (`!` by default) to interact. Here are some starter commands:
+Once GalacticManager is running, invite the bot to your server and use the prefix (`/` by default) to interact. Here are some starter commands:
 
-- `!help` - View available commands and usage.
-- `!ban @user` - Ban a user from the server.
-- `!schedule [event]` - Schedule an event for your community.
+- `/help` - View available commands and usage.
+- `/ban @user` - Ban a user from the server.
+- `/schedule [event]` - Schedule an event for your community.
 
 Refer to [docs/COMMANDS.md](docs/COMMANDS.md) for a full command list.
 
