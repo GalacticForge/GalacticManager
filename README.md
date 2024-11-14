@@ -84,12 +84,12 @@ Refer to [docs/COMMANDS.md](docs/COMMANDS.md) for a full command list.
 ---
 
 ## License
-This project is licensed under the **GNU AGPLv3** License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **GNU AGPLv3** License - see the [LICENSE](.github/ISSUE_TEMPLATE/LICENSE) file for details.
 
 ---
 
 ## Contributing
-We welcome contributions! Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We welcome contributions! Please check out our [CONTRIBUTING.md](.github/ISSUE_TEMPLATE/CONTRIBUTING.md) for guidelines.
 
 ---
 
